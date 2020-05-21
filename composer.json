@@ -1,0 +1,17 @@
+{
+    "name": "artemmelnik/test-enot-io",
+    "authors": [
+        {
+            "name": "Artem Melnik",
+            "email": "artemmelnik989@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "EnotPay\\": "src/"
+        }
+    },
+    "require": {
+        "guzzlehttp/guzzle": "~6.0"
+    }
+}
